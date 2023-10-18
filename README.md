@@ -36,6 +36,8 @@ the fun.exe into the apache /var/www/html folder
 
 Start apache server sudo systemctl apache2 start
 ![image](https://github.com/Shobika187/Compromising-windows-using-Metasploit/assets/94508142/b7fb41ee-baa5-4874-9523-2a3b95bcd198)
+
+
 Check the status of apache2
 ![image](https://github.com/Shobika187/Compromising-windows-using-Metasploit/assets/94508142/647113b2-98db-4de7-859b-04da1361dd50)
 Invoke msfconsole:
